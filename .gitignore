@@ -1,1 +1,4 @@
 packs
+.snowpack
+build
+node_modules
