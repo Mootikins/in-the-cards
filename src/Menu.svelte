@@ -9,7 +9,7 @@
 			<path
 				stroke-linecap="round"
 				stroke-linejoin="round"
-				stroke-width="3"
+				stroke-width="2"
 				d="M6 18L18 6M6 6l12 12"
 			/>
 		</svg>
@@ -18,7 +18,7 @@
 			<path
 				stroke-linecap="round"
 				stroke-linejoin="round"
-				stroke-width="3"
+				stroke-width="2"
 				d="M4 6h16M4 12h16M4 18h16"
 			/>
 		</svg>
@@ -57,8 +57,8 @@
 		top: 1rem;
 		right: 1rem;
 		z-index: 10;
-		width: 2rem;
-		height: 2rem;
+		width: 3rem;
+		height: 3rem;
 		padding: 0;
 	}
 </style>
